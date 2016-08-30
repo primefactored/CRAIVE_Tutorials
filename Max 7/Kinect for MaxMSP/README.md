@@ -1,6 +1,8 @@
 Kinect for MaxMSP 
 =================
 
+***Note: To use dp.kinect2, you must follow the installation instructions for Kinect for Windows.***
+
 #### System requirements :
  - Windows 8.1 or later
  - 64-bit Processor
@@ -9,4 +11,3 @@ Kinect for MaxMSP
  - Min. 4 GB of RAM
  - Graphics card that supports DirectX 11
 
-* **Note: To use dp.kinect2, you must follow the installation instructions for Kinect for Windows.** *
