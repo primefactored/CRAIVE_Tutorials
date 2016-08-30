@@ -13,4 +13,4 @@ Kinect for MaxMSP
  - Min. 4 GB of RAM
  - Graphics card that supports DirectX 11
 
-![Alt](bin/img/img.jpg "Title")
+![Alt](bin/img/image.jpg "Title")
