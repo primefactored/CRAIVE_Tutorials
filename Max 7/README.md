@@ -26,3 +26,4 @@ MaxMSP
 ##### If you wish to install the latest Max 7 version
  - Download and install [Max 7.x](https://cycling74.com/downloads/ "Max7")
 
+![Alt](bin/img/image.jpg "Title")
