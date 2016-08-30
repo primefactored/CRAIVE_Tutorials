@@ -1,7 +1,7 @@
 Kinect for MaxMSP 
 =================
-###dp.kinect2
-----------
+####dp.kinect2
+
 
 ***Note: To use dp.kinect2, you must follow the installation instructions for Kinect for Windows.***
 
