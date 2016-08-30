@@ -3,7 +3,7 @@ Kinect for MaxMSP
 ###dp.kinect2
 
 
-***Note: To use dp.kinect2, you must follow the installation instructions for Kinect for Windows.***
+***Note: To use dp.kinect2, you must follow the installation instructions for* Kinect for Windows.**
 
 #### System requirements :
  - Windows 8.1 or later
